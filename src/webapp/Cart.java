@@ -6,5 +6,6 @@ public class Cart {
 
     //add promo code
 
+    //use giftcard
 
 }
