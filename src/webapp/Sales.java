@@ -11,4 +11,6 @@ public class Sales {
     //...
 
     // employee discount
+
+    //holiday sales
 }
