@@ -9,4 +9,6 @@ public class Sales {
     //...
 
     //...
+
+    // employee discount
 }
